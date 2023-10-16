@@ -1,12 +1,12 @@
 <h1 align="center">Greetings! 👋 I'm Mudassar Memon.</h1>
-<h3 align="center">I'm a NYC-based full-stack developer who is deeply passionate about technology and always eager to expand my knowledge. Although I hold a degree in Civil Engineering, my heart has always been drawn to the world of technology. This is just the beginning of what promises to be an exciting journey. I absolutely thrive on collaborating with individuals from diverse backgrounds. Let's connect!</h3>
+***I'm a NYC-based full-stack developer who is deeply passionate about technology and always eager to expand my knowledge. Although I hold a degree in Civil Engineering, my heart has always been drawn to the world of technology. This is just the beginning of what promises to be an exciting journey. I absolutely thrive on collaborating with individuals from diverse backgrounds.***
 
-🔭 Currently engaged in projects: Facespace and TuneUp
-🌱 Actively learning Python
-👨‍💻 Explore my portfolio at placeholder.io
-📫 You can contact me at Mudassar95memon@gmail.com
-⚡ Fun fact: I have a playful side and am a well-rounded musician!
-📚 My book recommendation for you: "Name of the Wind" by Patrick Rothfuss
+- 🔭 Currently engaged in projects: Facespace and TuneUp
+- 🌱 Actively learning Python
+- 👨‍💻 Explore my portfolio at placeholder.io
+- 📫 You can contact me at Mudassar95memon@gmail.com
+- ⚡ Fun fact: I have a playful side and am a well-rounded musician!
+- 📚 My book recommendation for you: "Name of the Wind" by Patrick Rothfuss
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
