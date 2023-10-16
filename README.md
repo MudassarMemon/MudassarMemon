@@ -2,27 +2,16 @@
 <h3 align="center">A passionate full-stack developer based in NYC</h3>
 
 - 🔭 I’m currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
-
 - 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [placeholder.io](placeholder.io)
-
 - 📫 How to reach me **Mudassar95memon@gmail.com**
-
-- ⚡ Fun fact **I like to think I am funny. I'm also a well-rounded musician!**
-
-- 📚 Favorite reads **Name of the Wind by Patrick Rothfoss**
+- ⚡ Fun fact: **I like to think I am funny. I'm also a well-rounded musician!**
+- 📚 Favorite reads: **Name of the Wind by Patrick Rothfoss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mudassarmemon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mudassar memon"/></a>
-<a href="https://linkedin.com/in/mudassar memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudassar memon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22199874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22199874" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mudassarmemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mudassarmemon" height="30" width="40" /></a>
-<a href="https://fb.com/muddy memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muddy memon" height="30" width="40" /></a>
-<a href="https://instagram.com/muddymemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muddymemon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mudassar95memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudassar95memon" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/muddymemon/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudassar memon"/></a>
 
 <h3 align="left">Languages & Tools:</h3>
 
