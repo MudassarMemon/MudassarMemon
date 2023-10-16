@@ -19,4 +19,4 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,css,html,aws,webpack,postman)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassarmemon&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassarmemon&theme=city_lights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarmemon&layout=donut&theme=github_dark_dimmed&show_icons=true)](https://github.com/mudassarmemon/github-readme-stats)
