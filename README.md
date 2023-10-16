@@ -15,7 +15,9 @@
 
 <h3 align="left">Languages & Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,redux,ruby,rails,postgres,mongodb,sqlite,css,html,aws,webpack,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,redux,ruby,rails,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,css,html,aws,webpack,postman)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassarmemon&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassarmemon&theme=city_lights)
