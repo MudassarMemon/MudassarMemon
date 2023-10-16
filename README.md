@@ -6,7 +6,7 @@
 - 👨‍💻 Checkout my portfolio [placeholder.io](placeholder.io)
 - 📫 For important inquires reach me here **Mudassar95memon@gmail.com**
 - ⚡ Fun fact: **I'm a goof ball. I'm a well-rounded musician!**
-- 📚 Favorite reads: **Name of the Wind by Patrick Rothfoss**
+- 📚 My book recommendation for you! **Name of the Wind by Patrick Rothfoss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
