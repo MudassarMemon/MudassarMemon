@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mudassarmemon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mudassar memon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mudassarmemon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mudassar memon"/></a>
 <a href="https://linkedin.com/in/mudassar memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudassar memon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22199874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22199874" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mudassarmemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mudassarmemon" height="30" width="40" /></a>
