@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mudassar!</h1>
-<h3 align="center">A passionate full-stack developer based in NYC</h3>
+<h3 align="center">A full-stack developer based in NYC. Tech savvy, passion for learning and a knack for engineering. Graduated as a Civil Engineer but heart is in tech. Only the beginning of a long and exciting journey. I really enjoy working people of all different backgrounds</h3>
 
-- 🔭 I’m currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
-- 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at [placeholder.io](placeholder.io)
-- 📫 How to reach me **Mudassar95memon@gmail.com**
-- ⚡ Fun fact: **I like to think I am funny. I'm also a well-rounded musician!**
+- 🔭 Currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
+- 🌱 Learning **Python**
+- 👨‍💻 Checkout my portfolio [placeholder.io](placeholder.io)
+- 📫 For important inquires reach me here **Mudassar95memon@gmail.com**
+- ⚡ Fun fact: **I'm a goof ball. I'm a well-rounded musician!**
 - 📚 Favorite reads: **Name of the Wind by Patrick Rothfoss**
 
 <h3 align="left">Connect with me:</h3>
