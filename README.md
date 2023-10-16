@@ -4,9 +4,8 @@
 
 - 🔭 Currently engaged in projects: Facespace and TuneUp
 - 🌱 Actively learning Python
-- 👨‍💻 Explore my portfolio at placeholder.io
 - 📫 You can contact me at Mudassar95memon@gmail.com
-- ⚡ Fun fact: I have a playful side and am a well-rounded musician!
+- ⚡ Fun fact: I have a playful side and am also a well-rounded musician!
 - 📚 My book recommendation for you: "Name of the Wind" by Patrick Rothfuss
 
 <h3 align="left">Connect with me:</h3>
