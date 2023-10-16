@@ -31,4 +31,5 @@
 <a href="https://www.leetcode.com/mudassar95memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudassar95memon" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<h3 align="left">Languages & Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,express,nodejs, redux,ruby,rails,postgres,mongodb,sqlite,css,html,aws,flutter&perline=5)](https://skillicons.dev)
