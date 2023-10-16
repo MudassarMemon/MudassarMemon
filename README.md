@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mudassar!</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan, Canada and USA</h3>
+<h3 align="center">A passionate full-stack developer based in NYC</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassarmemon&label=Profile%20views&color=0e75b6&style=flat" alt="mudassarmemon" /> </p>
 
@@ -9,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Leetcoding**
+- 👯 I’m looking to collaborate on **Leetcode**
 
 - 🤝 I’m looking for help with **AI integration in web applications**
 
