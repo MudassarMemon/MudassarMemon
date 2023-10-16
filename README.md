@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudassar Memon!</h1>
-<h3 align="center">A full-stack developer based in NYC. Tech savvy, with a passion for learning and a knack for engineering. Graduate Civil Engineer but heart belongs to tech. Only the beginning of a long and exciting journey. I really enjoy working people of all different backgrounds. Lets connect!</h3>
+<h3 align="center">A full-stack developer based in NYC. Tech savvy, with a passion for learning and a knack for engineering. Graduate Civil Engineer but heart belongs to tech. Only the beginning of a long and exciting journey. I really enjoy working with people from all different backgrounds. Lets connect!</h3>
 
 - 🔭 Currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
 - 🌱 Learning Python
