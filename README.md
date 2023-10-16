@@ -4,7 +4,7 @@
 - 🔭 Currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
 - 🌱 Learning **Python**
 - 👨‍💻 Checkout my portfolio [placeholder.io](placeholder.io)
-- 📫 For important inquires reach me here **Mudassar95memon@gmail.com**
+- 📫 Reach me at **Mudassar95memon@gmail.com**
 - ⚡ Fun fact: **I'm a goof ball. I'm a well-rounded musician!**
 - 📚 My book recommendation for you! **Name of the Wind by Patrick Rothfoss**
 
