@@ -2,11 +2,11 @@
 <h3 align="center">A full-stack developer based in NYC. Tech savvy, with a passion for learning and a knack for engineering. Graduate Civil Engineer but heart belongs to tech. Only the beginning of a long and exciting journey. I really enjoy working people of all different backgrounds. Lets connect!</h3>
 
 - 🔭 Currently working on [Facespace](https://tuneup-twco.onrender.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
-- 🌱 Learning **Python**
+- 🌱 Learning Python
 - 👨‍💻 Checkout my portfolio [placeholder.io](placeholder.io)
 - 📫 Reach me at **Mudassar95memon@gmail.com**
-- ⚡ Fun fact: **I'm a goof ball. I'm a well-rounded musician!**
-- 📚 My book recommendation for you! **Name of the Wind by Patrick Rothfoss**
+- ⚡ Fun fact: I'm a goof ball. I'm a well-rounded musician!
+- 📚 My book recommendation for you! Name of the Wind by Patrick Rothfoss
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
