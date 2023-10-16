@@ -32,6 +32,6 @@
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,redux,ruby,rails,postgres,mongodb,sqlite,css,html,aws](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,aws](https://skillicons.dev)
 
 js,html,css,wasm)](https://skillicons.dev)
