@@ -6,7 +6,7 @@
 - 🌱 Actively learning Python
 - 📫 You can contact me at Mudassar95memon@gmail.com
 - ⚡ Fun fact: I have a playful side and am also a well-rounded musician!
-- 📚 My book recommendation for you: "Name of the Wind" by Patrick Rothfuss
+- 📚 Book recommendation: "Name of the Wind" by Patrick Rothfuss
 
 <h3 align="left">Connect with me:</h3>
 
