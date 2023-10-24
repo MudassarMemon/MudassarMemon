@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/mudassarmemon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mudassar memon"/></a>
-<a href="https://www.instagram.com/muddymemon/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mudassar memon"/></a>
 
 <h3 align="left">Languages & Tools:</h3>
 
