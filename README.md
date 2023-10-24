@@ -2,7 +2,7 @@
 
 **I'm a NYC-based full-stack developer who is deeply passionate about technology and always eager to expand my knowledge. Although I hold a degree in Civil Engineering, i have always been fascinated by the world of tech. This is just the beginning of what promises to be an exciting journey. I thrive on collaborating with individuals from diverse backgrounds.**
 
-- 🔭 Currently engaged in projects: Officespace and TuneUp
+- 🔭 Currently engaged in projects: [Officespace](https://officebook-3392aeaf91bd.herokuapp.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
 - 🌱 Actively learning Python
 - 📫 You can contact me at Mudassar95memon@gmail.com
 - ⚡ Fun fact: I have a playful side and am also a well-rounded musician!
