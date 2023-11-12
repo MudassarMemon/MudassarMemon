@@ -1,8 +1,8 @@
 <h1>Hey there! 👋 I'm Mudassar Memon.</h1>
 
-**I'm a NYC-based full-stack developer who is deeply passionate about technology and always eager to expand my knowledge. Although I hold a degree in Civil Engineering, i have always been fascinated by the world of tech. This is just the beginning of what promises to be an exciting journey. I thrive on collaborating with individuals from diverse backgrounds.**
+**I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I established a successful career in construction management with a focus on building NYC public schools. My obsession for software and tech has inevitably led me into a career as a Software Engineer and I'm thrilled to be here.**
 
-- 🔭 Currently engaged in projects: [Officebook](https://officebook-3392aeaf91bd.herokuapp.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
+- 🔭 Some of my projects: [Officebook](https://officebook-3392aeaf91bd.herokuapp.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
 - 🌱 Actively learning Python
 - 📫 You can contact me at Mudassar95memon@gmail.com
 - ⚡ Fun fact: I have a playful side and am also a well-rounded musician!
