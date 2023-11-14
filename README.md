@@ -17,5 +17,5 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,redux,ruby,rails,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,css,html,aws,webpack,postman)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarmemon&layout=donut-vertical&theme=github_dark_dimmed&show_icons=true)](https://github.com/mudassarmemon/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassarmemon&theme=city_lights)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarmemon&layout=donut&theme=github_dark_dimmed&show_icons=true)](https://github.com/mudassarmemon/github-readme-stats)
