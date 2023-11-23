@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages & Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,redux,ruby,rails,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,js,express,nodejs,redux,ruby,rails,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,css,html,aws,webpack,postman)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarmemon&layout=donut-vertical&theme=github_dark_dimmed&show_icons=true)](https://github.com/mudassarmemon/github-readme-stats)
