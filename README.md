@@ -9,7 +9,7 @@
 
 - 🎓 '17 Stonybrook
 - 🛠️ Currently coding in Python and Javascript
-- 📫 Contact me at Mudassar95memon@gmail.com
+- 📫 Contact me at mudassar95memon@gmail.com
 - 📚 Favorite book: "Name of the Wind" by Patrick Rothfuss
 
 <h3 align="left">Connect with me here:</h3>
