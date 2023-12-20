@@ -1,6 +1,6 @@
 <h1>Hey there! 👋 I'm <a target="_blank" href="https://mudassarmemon.github.io/MudassarMemon/">Mudassar Memon</a></h1>
 
-**I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I gained some experience as a construction project manager building schools around NYC. My long held passion for software and technology led me to pursue a career as a Software Engineer. Check out some of my projects**
+**I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I gained some experience in NYC as a construction project manager building public schools. My long held passion for software and technology led me to pursue a career as a Software Engineer. Check out some of my projects**
 
 [Officebook](https://officebook-3392aeaf91bd.herokuapp.com/)
 
