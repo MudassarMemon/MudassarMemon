@@ -1,14 +1,18 @@
-<h1>Hey there! 👋 I'm <a href="https://mudassarmemon.github.io/MudassarMemon/">Mudassar Memon</a>.</h1>
+<h1>Hey there! 👋 I'm <a target="_blank" href="https://mudassarmemon.github.io/MudassarMemon/">Mudassar Memon</a></h1>
 
-**I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I established a successful career in construction management with a focus on building NYC public schools. My obsession for software and tech has inevitably led me into a career as a Software Engineer and I'm thrilled to be here.**
+**I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I gained some experience in NYC as a construction project manager building public schools. My long held passion for software and technology led me to pursue a career as a Software Engineer. Please checkout some of my recent projects:**
 
-- 🔭 Some of my projects: [Officebook](https://officebook-3392aeaf91bd.herokuapp.com/) and [TuneUp](https://tuneup-twco.onrender.com/)
-- 🌱 Actively learning Python
-- 📫 You can contact me at Mudassar95memon@gmail.com
-- ⚡ Fun fact: I have a playful side and am also a well-rounded musician!
-- 📚 Book recommendation: "Name of the Wind" by Patrick Rothfuss
+[Officebook](https://officebook-3392aeaf91bd.herokuapp.com/)
 
-<h3 align="left">Connect with me:</h3>
+[TuneUp](https://tuneup-twco.onrender.com/)
+
+
+- 🎓 '17 Stony Brook University
+- 🛠️ Currently coding in Python and Javascript
+- 📫 Contact me at mudassar95memon@gmail.com
+- 📚 Favorite book: "Name of the Wind" by Patrick Rothfuss
+
+<h3 align="left">Connect with me here:</h3>
 
 <a href="https://linkedin.com/in/mudassarmemon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mudassar memon"/></a>
 
