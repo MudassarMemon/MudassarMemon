@@ -1,4 +1,4 @@
-<h1>Hey there! 👋 I'm <a target="_blank" href="https://mudassarmemon.github.io/MudassarMemon/">Mudassar Memon</a></h1>
+<h1>Hey there! 👋 I'm <a target="_blank" href="https://mudassarmemon-3xhow.ondigitalocean.app/">Mudassar Memon</a></h1>
 
 **I'm a Full Stack Software Developer based in NYC with a knack for engineering. After having completed my bachelors degree in Civil Engineering, I gained some experience in NYC as a construction project manager building public schools. My long held passion for software and technology led me to pursue a career as a Software Engineer. Please checkout some of my recent projects:**
 
