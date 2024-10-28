@@ -7,7 +7,7 @@
 [TuneUp](https://tuneup-twco.onrender.com/)
 
 
-- 🎓 '17 Stony Brook University
+- 🎓 '17 Stony Brook University and App Academy
 - 🛠️ Currently coding in Python and Javascript
 - 📫 Contact me at mudassar95memon@gmail.com
 - 📚 Favorite book: "Name of the Wind" by Patrick Rothfuss
