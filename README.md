@@ -25,7 +25,7 @@ Please check out some of my recent production and full-stack projects:
 <h3 align="left">Tech Stack & Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,ruby,rails,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,playwright,tailwind,aws,git,github,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,tailwind,aws,git,github,vercel,postman)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarmemon&layout=donut-vertical&theme=github_dark_dimmed&show_icons=true)](https://github.com/mudassarmemon/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassarmemon&theme=city_lights)
