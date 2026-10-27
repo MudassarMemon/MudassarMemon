@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mudassar Memon
+### Hi there! 👋 I'm [Mudassar Memon](https://mudassarmemonportfolio2026.vercel.app/)
 
 I'm a **Software Engineer** based in **New York, NY**, combining full-stack web development (`React`, `Next.js`, `TypeScript`, `Ruby on Rails`, `Node.js`) with 2.5 years of automation architecture and reliability engineering at **QA Wolf** (~600 E2E tests across 60 client SaaS apps). Prior to software engineering, I earned a B.S. in Civil Engineering (summa cum laude) from Stony Brook University and spent 6 years managing large-scale NYC public school construction projects as a Project Manager at EW Howell.
 
