@@ -8,7 +8,7 @@ Please check out some of my recent production and full-stack projects:
 * **[TuneUp](https://tuneup-twco.onrender.com/)** ([GitHub Repo](https://github.com/danielhlee4/TuneUp)) — MERN-stack platform connecting local musicians for jam sessions and bands (Node.js, Express.js, MongoDB, Mongoose, Passport/JWT, Google Maps API).
 * **[Priya Krishna Website](https://priyakrishna.me/)** — Production website built for the NYT journalist and bestselling author using Next.js, React, TypeScript, Tailwind CSS, and Sanity CMS.
 * **[Aliza Abarbanel Website](https://aliza-abarbanel.com/)** — Responsive editorial portfolio and Sanity Studio custom CMS workflow built and launched in under 30 days.
-* **[PLS Mechanical Booking Platform](https://pls-mechanical.vercel.app/)** — Commercial HVAC web app featuring automated Nodemailer SMTP booking pipelines (+22% session engagement).
+* **[PLS Mechanical Booking Platform](https://pls-mechanical.vercel.app/)** — Commercial HVAC web app featuring automated Nodemailer SMTP booking pipelines.
 * **[Binary Search Tree Visualizer](https://mudassarmemon.github.io/Binary-Search-Tree-Visualizer/)** — Framework-free interactive data structure visualizer built with vanilla JavaScript and HTML5 Canvas.
 
 ---
