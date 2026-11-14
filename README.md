@@ -4,7 +4,7 @@ I'm a **Software Engineer** based in **New York, NY**, combining full-stack web 
 
 Please check out some of my recent production and full-stack projects:
 
-* **[Officebook](officebook-1.onrender.com)** ([GitHub Repo](https://github.com/MudassarMemon/Facespace)) — Full-stack social networking application inspired by Facebook (React, Redux, Ruby on Rails, PostgreSQL, AWS S3).
+* **[Officebook](https://officebook-1.onrender.com/)** ([GitHub Repo](https://github.com/MudassarMemon/Officebook)) — Full-stack social networking application inspired by Facebook (React, Redux, Ruby on Rails, PostgreSQL, AWS S3).
 * **[TuneUp](https://tuneup-twco.onrender.com/)** ([GitHub Repo](https://github.com/danielhlee4/TuneUp)) — MERN-stack platform connecting local musicians for jam sessions and bands (Node.js, Express.js, MongoDB, Mongoose, Passport/JWT, Google Maps API).
 * **[Priya Krishna Website](https://priyakrishna.me/)** — Production website built for the NYT journalist and bestselling author using Next.js, React, TypeScript, Tailwind CSS, and Sanity CMS.
 * **[Aliza Abarbanel Website](https://aliza-abarbanel.com/)** — Responsive editorial portfolio and Sanity Studio custom CMS workflow built and launched in under 30 days.
